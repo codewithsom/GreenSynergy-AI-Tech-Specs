@@ -209,3 +209,4 @@ GreenSynergy AI is a **cloud-native, AI-powered platform** that optimizes the in
 - User feedback integrated  
 
 ---
+Note: This technical documentation is designed for technical evaluation in the Greenovation Challenge 2025. For implementation-specific details, additional documentation will be provided during the deployment process.
